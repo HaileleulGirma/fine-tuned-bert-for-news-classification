@@ -7,6 +7,7 @@ Access the live demo 👉 [**News Headline Classifier Space**](https://mercury99
 
 View the trained model on Hugging Face 👉 [**news-classification-distilbert-base-uncased**](https://huggingface.co/mercury99/news-classification-distilbert-base-uncased)
 
+View the code in [Google Colab](https://colab.research.google.com/github/HaileleulGirma/fine-tuned-distilBERT-for-news-classification/blob/main/finetune_distilBERT_for_news_headline_classification.ipynb)
 ---
 
 ## 📝 Project Description: `ag-news-text-classifier-huggingface`
