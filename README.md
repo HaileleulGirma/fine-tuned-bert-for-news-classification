@@ -56,6 +56,3 @@ Using the [AG News dataset](https://huggingface.co/datasets/ag_news), the model 
 * News aggregation pipelines
 * NLP/ML portfolio project for aspiring professionals
 
----
-
-Let me know if you'd also like badges (like `🤗 Spaces`, `Transformers`, or `Demo`) or a GIF/screenshot of the demo UI added for visual appeal.
